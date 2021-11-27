@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Anirban Mitra, a Ph.D Scholar advised by <a href = "Dr. Manu K. Gupta" target="_blank">Management Studies</a> at Department of Management Studies, Indian Institute of Technology, Roorkee.
+I am Anirban Mitra, a Ph.D Scholar advised by <a href = "https://manugupta-ai.com/" target="_blank">Management Studies</a> at Department of Management Studies, Indian Institute of Technology, Roorkee.
