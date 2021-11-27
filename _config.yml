@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anirban Mitra"
 title_separator          : "-"
 name                     : &name "Anirban Mitra"
-description              : &description "Ph.D Scholar, Operations Management
+description              : &description "Ph.D Scholar, Operations Management,
                             IIT Roorkee"
 url                      : https://ANIRBAN-MITRA-95.github.io # the base hostname & protocol for your site e.g. "https://ANIRBAN-MITRA-95.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
